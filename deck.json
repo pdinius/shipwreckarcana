@@ -1,0 +1,142 @@
+[
+    {
+        "name": "4 Apart",
+        "desc": "If the difference between your fates is 4 or more, play one of them here.",
+        "fade": 4,
+        "fadeName": "Discard Lower",
+        "fadeDesc": "After playing their fate, the active player may discard one visible fate that is lower than their remaining face."
+    },
+    {
+        "name": "Match",
+        "desc": "If one of your fates matches a visible fate, play your other fate here.",
+        "fade": 2,
+        "fadeName": "Cycle",
+        "fadeDesc": "Before playing their fate, the active player may replace an empty arcana card with the top card of the deck."
+    },
+    {
+        "name": "Higher",
+        "desc": "If one of your fates is higher than the other, play the higher one here.",
+        "fade": 3,
+        "fadeName": "Higher Than?",
+        "fadeDesc": "Before making a prediction, the group may pick a number X and ask, \"Is your fate higher than X?\""
+    },
+    {
+        "name": "Unique",
+        "desc": "If both of your fates are unique from each other and all visible fates, play one of them here.",
+        "fade": 2,
+        "fadeName": "Cycle",
+        "fadeDesc": "Before playing their fate, the active player may replace an empty arcana card with the top card of the deck."
+    },
+    {
+        "name": "Same",
+        "desc": "If both of your fates are the same, play one of them here",
+        "fade": 1,
+        "fadeName": "Twice",
+        "fadeDesc": "Before making a prediction, the group may choose to make one extra prediction this turn."
+    },
+    {
+        "name": "±2",
+        "desc": "If one of your fates is exactly 2 more or less than the other, play one of them here.",
+        "fade": 1,
+        "fadeName": "Twice",
+        "fadeDesc": "Before making a prediction, the group may choose to make one extra prediction this turn."
+    },
+    {
+        "name": "Even",
+        "desc": "If the sum of your fates is even, play one of them here.",
+        "fade": 3,
+        "fadeName": "3—4—5?",
+        "fadeDesc": "Before making a prediction, the group may ask, \"Is your fate 3, 4, or 5?\""
+    },
+    {
+        "name": "5—6—7",
+        "desc": "If one of your fates is 5, 6, or 7, and the other is not, play the 5, 6, or 7 here.",
+        "fade": 3,
+        "fadeName": "5—6—7?",
+        "fadeDesc": "Before making a prediction, the group may ask, \"Is your fate 5, 6, or 7?\""
+    },
+    {
+        "name": "Free",
+        "desc": "Play one of your fates here. Does not further your doom when fading.",
+        "fade": 1,
+        "fadeName": "1—4—7?",
+        "fadeDesc": "Before making a prediction, the group may ask, \"Is your fate 1, 4, or 7?\""
+    },
+    {
+        "name": "≥11",
+        "desc": "If the sum of your fates is 11 or more, play one of them here.",
+        "fade": 4,
+        "fadeName": "Discard Lower",
+        "fadeDesc": "After playing their fate, the active player may discard one visible fate that is lower than their remaining face."
+    },
+    {
+        "name": "7 to 9",
+        "desc": "If the sum of your fates is 7, 8, or 9, play one of them here.",
+        "fade": 3,
+        "fadeName": "Old?",
+        "fadeDesc": "After playing their fate, the active player may say whether they had that fate during their previous turn."
+    },
+    {
+        "name": "Odd",
+        "desc": "If the sum of your fates is odd, play one of them here",
+        "fade": 3,
+        "fadeName": "1—2—3?",
+        "fadeDesc": "Before making a prediction, the group may ask, \"Is your fate 1, 2, or 3?\""
+    },
+    {
+        "name": "×3",
+        "desc": "If the sum of your fates is a multiple of 3, play one of them here.",
+        "fade": 2,
+        "fadeName": "Discard Lower",
+        "fadeDesc": "After playing their fate, the active player may discard one visible fate that is lower than their remaining face."
+    },
+    {
+        "name": "±1",
+        "desc": "If one of your fates is exactly 1 more or less than the other, play one of them here.",
+        "fade": 1,
+        "fadeName": "Twice",
+        "fadeDesc": "Before making a prediction, the group may choose to make one extra prediction this turn."
+    },
+    {
+        "name": "3—4—5",
+        "desc": "If one of your fates is 3, 4, or 5, and the other is not, play the 3, 4, or 5 here.",
+        "fade": 3,
+        "fadeName": "3—4—5?",
+        "fadeDesc": "Before making a prediction, the group may ask, \"Is your fate 3, 4, or 5?\""
+    },
+    {
+        "name": "Factor",
+        "desc": "If one of your fates is double or triple the other, play one of them here.",
+        "fade": 3,
+        "fadeName": "5—6—7?",
+        "fadeDesc": "Before making a prediction, the group may ask, \"Is your fate 5, 6, or 7?\""
+    },
+    {
+        "name": "1—2—3",
+        "desc": "If one of your fates is 1, 2, or 3, and the other is not, play the 1, 2, or 3 here.",
+        "fade": 2,
+        "fadeName": "1—2—3?",
+        "fadeDesc": "Before making a prediction, the group may ask, \"Is your fate 1, 2, or 3?\""
+    },
+    {
+        "name": "Tell",
+        "desc": "Play one of your fates here. If you do, say whether your remaining fate is higher than the one you played.",
+        "fade": 2,
+        "fadeName": "1—4—7?",
+        "fadeDesc": "Before making a prediction, the group may ask, \"Is your fate 1, 4, or 7?\""
+    },
+    {
+        "name": "Lower",
+        "desc": "If one of your fates is lower than the other, play the lower one here.",
+        "fade": 3,
+        "fadeName": "Higher Than?",
+        "fadeDesc": "Before making a prediction, the group may pick a number X and ask,\"Is your fate higher than X?\""
+    },
+    {
+        "name": "≤5",
+        "desc": "If the sum of your fates is 5 or less, play one of them here",
+        "fade": 3,
+        "fadeName": "Higher Than?",
+        "fadeDesc": "Before making a prediction, the group may pick a number X and ask,\"Is your fate higher than X?\""
+    }
+]
